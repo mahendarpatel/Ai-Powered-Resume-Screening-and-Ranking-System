@@ -38,8 +38,7 @@ Clone the Repository
 bash
 Copy
 Edit
-git clone https://github.com/rutikakengal/AI-Resume-Screening-And-System-Ranking.git
-cd AI-Resume-Screening-And-System-Ranking
+push into the ithub
 Install Dependencies
 bash
 Copy
