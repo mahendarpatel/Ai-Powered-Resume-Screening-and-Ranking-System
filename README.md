@@ -58,4 +58,7 @@ Click Submit to process and rank resumes
 
 View ranked resumes with match scores & AI suggestions
 
-Getting Started Clone the Repository bash Copy Edit git clone https://github.com/mahendarpatel/Ai-Powered-Resume-Screening-and-Ranking-System/.git cd Resume-Ranking-System Install Dependencies bash Copy Edit pip install -r requirements.txt Run the Application bash Copy Edit streamlit run app.py Contributing Contributions are welcome! Feel free to fork this repository and submit a pull request with improvements.
+Getting Started Clone the Repository bash Copy Edit git clone https://github.com/mahendarpatel/Ai-Powered-Resume-Screening-and-Ranking-System/.git
+cd Resume-Ranking-System Install Dependencies bash Copy Edit pip install -r requirements.txt 
+Run the Application bash Copy Edit streamlit run app.py Contributing Contributions are welcome! 
+Feel free to fork this repository and submit a pull request with improvements.
